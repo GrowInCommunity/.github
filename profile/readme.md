@@ -1,4 +1,4 @@
-![.](https://github.com/GrowInCommunity/Branding/blob/main/Assets/Banner-coverphoto.jpg)
+![.](https://cdn.discordapp.com/attachments/1122449385989603369/1132341678771032126/GrowinCommbanner.png)
 ## About GrowInCommunity 🚀
 * Vibrant and inclusive community dedicated to fostering **learning, collaboration, and personal growth**.
 * Our mission is to create a supportive environment where individuals can come together to **learn, build, and grow together**.
