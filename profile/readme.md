@@ -8,10 +8,15 @@
 ### [Join Our GitHub Organization]( https://github.com/GrowInCommunity/support/issues/new?assignees=&labels=Invite+me+to+the+organization&projects=&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
 ### [Join Discord Community](https://discord.gg/m5anDXXF)
 
-## Last Event
-GrowInComm x Showwcase [Blogathon](https://twitter.com/GrowInComm/status/1668158321881219073?s=20) in June 2023. 
+## Upcoming Event
+![](https://github.com/GrowInCommunity/.github/assets/114390890/27728860-8d50-408b-9416-407b584e3abe)
 
-More details [here]( https://twitter.com/GrowInComm/status/1667473287440658433?s=20)
+
+## Last Event
+* GrowInComm x Showwcase (June 2023)
+![Blogathon](https://twitter.com/GrowInComm/status/1668158321881219073?s=20) 
+
+* More details [here]( https://twitter.com/GrowInComm/status/1667473287440658433?s=20)
 
 ---
 
