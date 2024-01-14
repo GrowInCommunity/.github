@@ -11,6 +11,17 @@
 ## Upcoming Event
 ![](https://github.com/GrowInCommunity/.github/assets/114390890/27728860-8d50-408b-9416-407b584e3abe)
 
+## Speakers at the meet-up:
+1. Saumya
+2. Piyush Sachdeva
+3. Guru Raghupati
+4. Mohd Imran
+5. Harsh Mishra
+6. Krish Gupta
+
+## Host:
+1. Akshay Kumar
+2. Saumya
 
 ## Last Event
 * GrowInComm x Showwcase (June 2023)
