@@ -8,11 +8,11 @@
 ### [Join Our GitHub Organization]( https://github.com/GrowInCommunity/support/issues/new?assignees=&labels=Invite+me+to+the+organization&projects=&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
 ### [Join Discord Community](https://discord.gg/m5anDXXF)
 
-## Upcoming Event
+
+## Our Previous Events
+* GrowIn Community X The CloudOps Community
 ![](https://github.com/GrowInCommunity/.github/assets/114390890/27728860-8d50-408b-9416-407b584e3abe)
 
-
-## Last Event
 * GrowInComm x Showwcase (June 2023)
 ![Blogathon](https://twitter.com/GrowInComm/status/1668158321881219073?s=20) 
 
