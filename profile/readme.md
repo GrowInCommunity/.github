@@ -8,7 +8,11 @@
 ### [Join Our GitHub Organization]( https://github.com/GrowInCommunity/support/issues/new?assignees=&labels=Invite+me+to+the+organization&projects=&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
 ### [Join Discord Community](https://discord.gg/m5anDXXF)
 
+## Current Activity
+![image](https://github.com/user-attachments/assets/e1e03137-31c6-4322-bee6-d4d8e7f4be57)
 
+* We are going to sponshor **CNCF KubeCon India-2024** tickets to the folks. Soon we'll share he criteria to participate in the challange. Stay tuned! 
+   
 ## Our Previous Events
 * GrowIn Community X The CloudOps Community
 ![](https://github.com/GrowInCommunity/.github/assets/114390890/27728860-8d50-408b-9416-407b584e3abe)
